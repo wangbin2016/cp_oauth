@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.caipiao</groupId>
-	<artifactId>cp_oauth</artifactId>
+	<artifactId>cp_server_oauth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>cp_oauth</name>
+	<name>cp_server_oauth</name>
 	<description>oauth2</description>
 
 	<parent>
